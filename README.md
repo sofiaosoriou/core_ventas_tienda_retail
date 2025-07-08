@@ -1,9 +1,7 @@
-# Retail Sales Analysis
-
+## Análisis y Predicción de Ventas en una Tienda de Retail
+## Descripción: 
 Este proyecto analiza y predice las ventas de una tienda de retail utilizando técnicas de ciencia de datos.
-
-## Estructura del Proyecto
-
+## Estructura del Repositorio: 
 - `data/`: Contiene los archivos de datos.
 - `notebooks/`: Contiene los notebooks de Jupyter para el análisis.
 - `src/`: Contiene el código fuente del proyecto.
@@ -17,3 +15,7 @@ Este proyecto analiza y predice las ventas de una tienda de retail utilizando t�
 ## Uso
 
 Ejecuta los notebooks de Jupyter en la carpeta `notebooks` para realizar el análisis de los datos.
+
+
+## Autores: 
+Sofia Osorio Urrutia
